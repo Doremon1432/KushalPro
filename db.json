@@ -1,4 +1,4 @@
-[
+{
   "devices": [
     { "userId": "USR001", "deviceId": "device001", "status": "online", "batteryLevel": 80, "temperature": 25 },
     { "userId": "USR002", "deviceId": "device002", "status": "offline", "batteryLevel": 55, "temperature": 30 },
@@ -21,4 +21,4 @@
     { "userId": "USR019", "deviceId": "device019", "status": "online", "batteryLevel": 78, "temperature": 26 },
     { "userId": "USR020", "deviceId": "device020", "status": "offline", "batteryLevel": 10, "temperature": 37 }
   ]
-]
+}
